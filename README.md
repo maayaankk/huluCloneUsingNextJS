@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Responsive
 ```bash
-The app is fully mobile response (Mobile First
+The app is fully mobile response (Mobile First)
 ```
 
 ## Link to Project
