@@ -1,9 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Link to Project
-```bash
 https://hulu-clone-using-next-js-git-main-maayaankk.vercel.app/
-```
+
 
 ## Getting Started
 
