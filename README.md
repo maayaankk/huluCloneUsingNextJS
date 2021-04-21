@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Responsive
+```bash
+The app is fully mobile response (Mobile First
+```
+
 ## Link to Project
 https://hulu-clone-using-next-js-git-main-maayaankk.vercel.app/
 
