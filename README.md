@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Link to Project
 ```bash
+https://hulu-clone-using-next-js-git-main-maayaankk.vercel.app/
 ```
 
 ## Getting Started
